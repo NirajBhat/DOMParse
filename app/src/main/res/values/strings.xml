@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DomParser</string>
+    <string name="URL">http://www.androidbegin.com/tutorial/XMLParseTutorial.xml</string>
+</resources>
